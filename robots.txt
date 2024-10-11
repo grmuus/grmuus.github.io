@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grmuus.github.io/Trd/sitemap.Trd.gz
